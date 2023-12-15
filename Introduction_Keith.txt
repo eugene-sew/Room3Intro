@@ -1,0 +1,21 @@
+1. Name, background, and interests in life:
+My name is Keith Wasike Kisiangani, and I come from a background in Information Technology.
+I've always been fascinated by the intersection of technology and problem-solving, which led me to pursue Cloud Engineering.
+In my free time, I enjoy watching nature documentaries and listening to music, and I find inspiration in [Any Particular Aspect of Life or Philosophy].
+
+2. Expectations from the course (Cloud Engineering):
+I have high expectations for the Cloud Engineering course.
+I am eager to deepen my understanding of cloud technologies, particularly focusing on AWS.
+I hope to gain hands-on experience in deploying scalable and reliable cloud solutions.
+Additionally, I'm looking forward to mastering key concepts like infrastructure as code, cloud security, and best practices in cloud architecture.
+Ultimately, my goal is to emerge from this course with the skills needed for a successful career in cloud engineering.
+
+3. A fun fact or something unique about yourself:
+A fun fact about me is that I'm an avid Man United fan.
+
+4. Which superpower do you wish you had:
+If I could have any superpower, I would choose teleportation.
+The ability to instantly travel to any location would not only make commuting a breeze
+but would also open up incredible opportunities for exploration and experiencing diverse cultures.
+Imagine being able to attend meetings in different parts of the world without the need for flights!
+It's a superpower that aligns with my love for adventure and efficiency.
